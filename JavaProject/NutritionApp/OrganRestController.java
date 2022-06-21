@@ -1,5 +1,5 @@
 package JavaProject.NutritionApp;
 
-public class NutritionRestController {
+public class OrganRestController {
     
 }
